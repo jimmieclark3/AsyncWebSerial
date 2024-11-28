@@ -1,6 +1,6 @@
 {
     "name": "AsyncWebSerial",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": "web serial, ESP32",
     "description": "AsyncWebSerial: Simplify ESP32 debugging and logging with seamless browser-based serial communication.",
     "homepage": "https://github.com/circuitcode/AsyncWebSerial",
